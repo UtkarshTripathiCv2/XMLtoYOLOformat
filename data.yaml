@@ -1,0 +1,9 @@
+# Train/val/test sets
+path: C:/Users/HP/Desktop/dataset
+train: images/train
+val: images/val
+test: images/test
+
+# Classes
+names:
+  0: JacKALKI/Utkarsh
